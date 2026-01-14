@@ -1,0 +1,11 @@
+name: Lumina Bot 🤖
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Say Hello
+        run: echo "The Lumina Bot is officially active and watching your code!"
