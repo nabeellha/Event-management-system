@@ -24,3 +24,4 @@ Lumina is a comprehensive web-based platform that streamlines the event planning
 3.  Import the database file (SQL) using **phpMyAdmin**.
 4.  Start **Apache** and **MySQL** in the XAMPP control panel.
 5.  Open your browser and navigate to `localhost/lumina`.
+### Currently working on: Payment Gateway integration
